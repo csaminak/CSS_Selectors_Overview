@@ -88,7 +88,7 @@ CSS works with top bottom approach to styling, so that last style written is usu
 * 10 Points:
   - class name
   - pseudo-class
-  attributes
+  - attributes
 * 1 Points:
   - tag name
   - pseudo-elements
